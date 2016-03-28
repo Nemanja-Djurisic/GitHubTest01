@@ -24,9 +24,9 @@ namespace GW_POP_Test01.Pages.UsersAndExtensions
             driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(20));
         }
 
-        //Element - Field
+        //Home page button
         [FindsBy(How = How.ClassName, Using = "location")]
-        public IWebElement ElementName { get; set; }
+        public IWebElement HomeButton { get; set; }
 
         public void Action()
         {
