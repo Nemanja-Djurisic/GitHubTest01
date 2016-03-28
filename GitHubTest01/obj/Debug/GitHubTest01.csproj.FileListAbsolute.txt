@@ -1,0 +1,9 @@
+D:\GitHub\Projects-clone\GitHubTest01\GitHubTest01\bin\Debug\GitHubTest01.dll
+D:\GitHub\Projects-clone\GitHubTest01\GitHubTest01\bin\Debug\GitHubTest01.pdb
+D:\GitHub\Projects-clone\GitHubTest01\GitHubTest01\bin\Debug\WebDriver.dll
+D:\GitHub\Projects-clone\GitHubTest01\GitHubTest01\bin\Debug\WebDriver.Support.dll
+D:\GitHub\Projects-clone\GitHubTest01\GitHubTest01\bin\Debug\WebDriver.xml
+D:\GitHub\Projects-clone\GitHubTest01\GitHubTest01\bin\Debug\WebDriver.Support.xml
+D:\GitHub\Projects-clone\GitHubTest01\GitHubTest01\obj\Debug\GitHubTest01.csprojResolveAssemblyReference.cache
+D:\GitHub\Projects-clone\GitHubTest01\GitHubTest01\obj\Debug\GitHubTest01.dll
+D:\GitHub\Projects-clone\GitHubTest01\GitHubTest01\obj\Debug\GitHubTest01.pdb
