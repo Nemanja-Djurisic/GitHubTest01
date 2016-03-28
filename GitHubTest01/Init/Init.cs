@@ -21,6 +21,7 @@ namespace GitHubTest01.Init
 
             _homePage.GoTo();
             _homePage.MaxWin();
+            //new line 1
         }
 
         public void FinishTest(IWebDriver driver)
