@@ -13,11 +13,11 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace GW_POP_Test01.Pages.UsersAndExtensions
 {
-    public class PageName
+    public class HomePageTest
     {
         public readonly IWebDriver driver;
 
-        public PageName(IWebDriver browser)
+        public HomePageTest(IWebDriver browser)
         {
             this.driver = browser;
             PageFactory.InitElements(browser, this);
